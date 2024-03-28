@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Sandip Baikare",
+	"author": "Sandip baikare",
+	"description": "This project is to complete all the assignments given by the Freecodecamp",
+	"keywords": [ "typescript", "nodejs", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
